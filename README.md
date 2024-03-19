@@ -1,12 +1,9 @@
-# Web-Dev-Lab-T2-LA1-Web-HTML-Forms-CSS
-Activity No. WDL T1-LA2 / ADL T1-LA2
 <!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <table>
         <tr>
             <th> ID Number </th>
